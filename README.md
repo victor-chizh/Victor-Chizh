@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Сайт «Правильная вера»](https://victor-chizh.github.io/Victor-Chizh/)
+
 <!--
 **victor-chizh/Victor-Chizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
